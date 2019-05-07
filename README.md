@@ -4,3 +4,7 @@ With reference to [What did I learn - How to implement a splash screen in React 
 
 Summary
 ------
+Easiest Way:
+```
+git clone https://github.com/axjtan/SplashScreenExample.git
+```
